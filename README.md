@@ -14,7 +14,8 @@ I have added 3 cards,5 donut charts and 3 line and stacked column chart and one 
 This overall report show us that the churn rate is high in senior age group, low balance and new customer people
 This give us a direction what we can do next to retain the new Customer.
 
-The data is from kaggle website 
+The data is from kaggle website
+https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers?resource=download
 
 Here is the snapshot of the report
 https://github.com/SaikeerthiBannur/Bank-Customer-Churn-Report/blob/main/Bank%20Customer%20Churn%20Analysis.png
